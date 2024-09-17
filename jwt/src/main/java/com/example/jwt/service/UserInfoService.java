@@ -1,7 +1,7 @@
 package com.example.jwt.service;
 
-import com.ey.springboot3security.entity.UserInfo;
-import com.ey.springboot3security.repository.UserInfoRepository;
+import com.example.jwt.entity.UserInfo;
+import com.example.jwt.repository.UserInfoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

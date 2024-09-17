@@ -1,7 +1,7 @@
 package com.example.jwt.filter;
 
-import com.ey.springboot3security.service.JwtService;
-import com.ey.springboot3security.service.UserInfoService;
+import com.example.jwt.service.JwtService;
+import com.example.jwt.service.UserInfoService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
